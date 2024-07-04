@@ -1,4 +1,4 @@
-# EasyImagesCropper
+**其他语言版本: [English](README.md), [中文](README_ZH.md).**
 
 # 简单图片批量裁剪工具 v2.4.1
 
