@@ -1,5 +1,7 @@
 # Easy images cropping tool v2.4.1
 
+**Read this in other languages: [English](README.md), [中文](README_ZH.md).**
+
 When building a training dataset, cropping a large number of images is a tedious task, and existing tools and tutorials often have complex operations, and the accuracy of automated AI tools is not satisfactory. Therefore, I developed a semi-automatic image batch cropping tool.
 
 This tool can efficiently batch process image cropping tasks, and users can achieve fast and fine-tuning continuous cropping by manually drawing sanctions or setting specific aspect ratios.
