@@ -18,6 +18,5 @@ Overall, this software achieves a "WYSIWYG" fast image cropping experience.
 
 ![tool image](tool_image.jpg "tool_image")
 
-b站凌霜雪猫 UID787851
 
 July 4th 2024
