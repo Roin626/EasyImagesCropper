@@ -1,6 +1,10 @@
-# Easy images cropping tool v2.4.1
-
 **Read this in other languages: [English](README.md), [中文](README_ZH.md).**
+
+# update v2.4.2
+
+Added the function of moving images with the scroll wheel and taking screenshots with the space bar
+
+# Easy images cropping tool v2.4.1
 
 When building a training dataset, cropping a large number of images is a tedious task, and existing tools and tutorials often have complex operations, and the accuracy of automated AI tools is not satisfactory. Therefore, I developed a semi-automatic image batch cropping tool.
 
@@ -39,7 +43,7 @@ Overall, this software achieves a "WYSIWYG" fast image cropping experience.
 
 ![tool step3](step3.jpg "step3")
 
-7.Click 'Preview' to get a preview of the effect, or directly click Process Image to complete the screenshot. The default save location is the folder where the original picture is located.
+7.Click 'Preview' to get a preview of the effect, or directly click Process Image（or click space bar） to complete the screenshot. The default save location is the folder where the original picture is located.
 
 ![tool step4](step4.jpg "step4")
 
