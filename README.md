@@ -17,6 +17,34 @@ After each cropping, the cropping box will be retained and users can easily move
 Overall, this software achieves a "WYSIWYG" fast image cropping experience.
 
 ![tool image](tool_image.jpg "tool_image")
+![tool intro](tool-intro.jpg "tool_intro")
 
+## Easy use guide
+
+1.download "EasyImageCropper.exe" or “简单图片批量剪切工具.exe”(different languages)
+
+2.Double click to open the program
+
+3.Click on the "Load image" in the upper right corner and select the image you want to process
+
+4.Set clipping box size
+
+![tool step1](step1.jpg "step1")
+
+5.Left Click the mouse to point on the desired clipping area, or hold down the left mouse button to drag out a crop box
+
+![tool step2](step2.jpg "step2")
+
+6.Click "Set Cropper Size" to get a regular sized cropping box.
+
+![tool step3](step3.jpg "step3")
+
+7.Click 'Preview' to get a preview of the effect, or directly click Process Image to complete the screenshot. The default save location is the folder where the original picture is located.
+
+![tool step4](step4.jpg "step4")
+
+8.The next image will load automatically, hold down the right mouse button and drag the crop box to the new crop position.
+
+![tool step5](step5.jpg "step5")
 
 July 4th 2024
