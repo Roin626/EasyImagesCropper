@@ -1,5 +1,10 @@
 **Read this in other languages: [English](README.md), [中文](README_ZH.md).**
 
+# update v2.5
+
+Now the full image and Cropping box can be viewed in real-time at the preview box; And I've kept the original preview function, by clicking the preview button you can preview to see the new image after cutting
+![updatev2.5wholeImagePerview](updatev2.5wholeImagePerview.jpg "updatev2.5wholeImagePerview")
+
 # update v2.4.2
 
 Added the function of moving images with the scroll wheel and taking screenshots with the space bar

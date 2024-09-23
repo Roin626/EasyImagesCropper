@@ -1,4 +1,10 @@
 **其他语言版本: [English](README.md), [中文](README_ZH.md).**
+# update v2.5
+
+现在，在预览框处可以实时观察全图和切割框；
+并且我保留了原来的预览功能，通过点击预览按键可以预览看剪切后的新图
+
+![updatev2.5wholeImagePerview](updatev2.5wholeImagePerview.jpg "updatev2.5wholeImagePerview")
 
 # 更新 v2.4.2
 
